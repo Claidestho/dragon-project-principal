@@ -1,0 +1,6 @@
+[submodule "dnd-database-connection"]
+	path = dnd-database-connection
+	url = https://github.com/Claidestho/dnd-database-connection
+[submodule "dnd-options-view"]
+	path = dnd-options-view
+	url = https://github.com/Claidestho/dnd-options-view
