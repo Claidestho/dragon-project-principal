@@ -4,3 +4,6 @@
 [submodule "dnd-options-view"]
 	path = dnd-options-view
 	url = https://github.com/Claidestho/dnd-options-view
+[submodule "dnd-game-display"]
+	path = dnd-game-display
+	url = https://github.com/Bahjat-TOUNSI/dnd-game-display
