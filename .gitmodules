@@ -7,3 +7,6 @@
 [submodule "dnd-game-display"]
 	path = dnd-game-display
 	url = https://github.com/Bahjat-TOUNSI/dnd-game-display
+[submodule "Logic-dnd"]
+	path = Logic-dnd
+	url = https://github.com/alloune/Logic-dnd
