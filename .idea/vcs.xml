@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Logic-dnd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dnd-database-connection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dnd-game-display" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dnd-options-view" vcs="Git" />
+  </component>
+</project>
